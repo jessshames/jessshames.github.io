@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+
+#header-wrapper {
+background: url(../img/leaf_bg.png) no-repeat center center fixed;
+height: 500px;
+}
+
+#jess-logo {
+  padding: 110px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: gray;
+}
